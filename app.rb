@@ -5,15 +5,15 @@ end
 
 
   get '/name' do
-    "My name is _"
+    "My name is Taylor"
   end
 
   get '/hometown' do
-    "My hometown is -"
+    "My hometown is Chicago"
   end
 
   get '/favorite-song' do
-    "My favorite song is _"
+    "My favorite song is Hamilton"
   end
 end
 
